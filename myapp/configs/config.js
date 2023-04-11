@@ -1,0 +1,12 @@
+module.exports={
+    databaseURL:'mongodb://127.0.0.1:27017/',
+    databaseName:'DoAnNodeJS',
+    JWT_SECRET:'HFIUSHFW98YWFU909F8ISDAFU9SDSJKDFHA89ECASFDIU',
+    JWT_EXPIRE:'5d',
+    COOKIE_EXPIRE:'5',
+    mail_host:'smtp.com.gmail',
+    mail_port:'465',
+    mail_service:'gmail',
+    mail_user:'hoangngoc.10819@gmail.com',
+    mail_password:'hmtljtmifbsmmasu'
+}
